@@ -1,4 +1,4 @@
-# Clock build by 8051 Microcontroller (AT89S52)
+# Digital Clock build by 8051 Microcontroller (AT89S52)
 The clock has features such as alarm, snooze, 12/24hr format, etc
 
 ## Demo Video
